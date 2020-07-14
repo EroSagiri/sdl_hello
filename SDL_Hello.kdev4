@@ -1,0 +1,4 @@
+[Project]
+Name=SDL_Hello
+Manager=KDevCustomMakeManager
+VersionControl=
